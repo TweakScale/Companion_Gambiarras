@@ -40,7 +40,7 @@ So the only option left is going nuclear about the problem, brute forcing my way
 
 I can't save users from themselves, if people prefers the convenient path to the slaugherhouse, so be it - but the Companion Program will be ever there for the ones that want to get alive in the end, even if it bothers you a bit
 
-Currently mangling with:
+Currently mangling with:  
 * [KSS2](https://github.com/StarCrusher96/Kerbal-Star-Systems-2)
 
 And more to come as the need arises.
